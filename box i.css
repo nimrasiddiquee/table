@@ -1,0 +1,6 @@
+.box{border-top-style :dotted;border-right-style:dashed;
+border-width:30px; auto;padding:10px; margin:300px;border-color:red;
+}
+h1{color:yellow;}
+p{color:red;
+background-color:white;}
